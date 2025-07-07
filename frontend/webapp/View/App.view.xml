@@ -1,0 +1,22 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc"
+          xmlns="sap.m"
+          controllerName="demo.controller.App">
+  <Table items="{/ZI_BOOK}">
+    <columns>
+      <Column><Text text="ID"/></Column>
+      <Column><Text text="Title"/></Column>
+      <Column><Text text="Author"/></Column>
+      <Column><Text text="Published Year"/></Column>
+    </columns>
+    <items>
+      <ColumnListItem>
+        <cells>
+          <Text text="{id}"/>
+          <Text text="{title}"/>
+          <Text text="{author}"/>
+          <Text text="{published_year}"/>
+        </cells>
+      </ColumnListItem>
+    </items>
+  </Table>
+</mvc:View>

@@ -1,0 +1,10 @@
+specVersion: '2.2'
+metadata:
+  name: demo
+type: application
+framework:
+  name: SAPUI5
+  version: "1.108.0"
+  libraries:
+    - name: sap.m
+    - name: sap.ui.core
