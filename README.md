@@ -65,4 +65,3 @@ rap_ui5_demo/
 
 ---
 
-✅ Feel free to fork and build upon it!
