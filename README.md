@@ -59,7 +59,7 @@ rap_ui5_demo/
 
 ---
 
-## 💬 Use in Interview
+## 💬 
 
 > “I built and deployed a small RAP-based OData service for book records, then connected it to a UI5 app using OData V4. This helped me learn projection views, behavior definitions, and how Fiori-style apps are integrated end-to-end.”
 
